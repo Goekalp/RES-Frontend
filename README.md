@@ -1,4 +1,4 @@
-# res-frontend
+# res
 
 ## Project setup
 ```
